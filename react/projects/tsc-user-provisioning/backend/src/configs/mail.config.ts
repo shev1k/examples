@@ -1,0 +1,2 @@
+// 1d
+export const RESET_PASSWORD_TOKEN_EXPIRATION = 3600;

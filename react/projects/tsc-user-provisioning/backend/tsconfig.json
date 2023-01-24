@@ -1,0 +1,38 @@
+{
+  "ts-node": {
+    "require": ["tsconfig-paths/register"],
+    "compilerOptions": {
+      "module": "CommonJS",
+      "experimentalDecorators": true
+    }
+  },
+  "files": ["src/declarations/global.d.ts"],
+  "compilerOptions": {
+    "typeRoots": ["./src/declarations"],
+    "target": "es6",
+    "module": "CommonJS",
+    "lib": ["es2017"],
+    "baseUrl": "src",
+    "paths": {
+      "@/*": ["*"]
+    },
+    "moduleResolution": "node",
+    "strict": false,
+    "allowJs": false,
+    "noEmit": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "isolatedModules": true,
+    "removeComments": false,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "forceConsistentCasingInFileNames": false,
+    "resolveJsonModule": true,
+    "incremental": true,
+    "experimentalDecorators": true
+  },
+  "include": ["src/**/*"]
+}

@@ -1,0 +1,59 @@
+version: '3.7'
+services:
+  db:
+    image: mysql:8
+    restart: always
+
+    environment:
+      - MYSQL_ROOT_PASSWORD=${DATABASE_PASSWORD}
+      - MYSQL_DATABASE=${DATABASE_NAME}
+    ports:
+      # <Port exposed> : < MySQL Port running inside container>
+      - '3306:3306'
+    expose:
+      # Opens port 3306 on the container
+      - '3306'
+      # Where our data will be persisted
+    volumes:
+      - db:/var/lib/mysql
+
+  emailengine:
+    image: andris9/emailengine:latest
+    restart: always
+
+    ports:
+      # API and web interface
+      - '3000:3000'
+      # SMTP for message submission
+      - '2525:2525'
+    depends_on:
+      - redis
+    environment:
+      # Configuration to EmailEngine can be passed via environment variables
+      # For full list see https://github.com/postalsys/emailengine#config-mapping
+
+      # Settings to write to v1/settings on startup (https://api.emailengine.app/#operation/postV1Settings)
+      # The following value is a YAML block scalar string, so make it sure it is properly indented
+      # This configuration enables SMTP server for local submission
+      EENGINE_SETTINGS: >
+        {
+            "smtpServerEnabled": true,
+            "smtpServerPort": 2525,
+            "smtpServerHost": "${SMTP_SERVER_HOST}",
+            "smtpServerAuthEnabled": true,
+            "smtpServerPassword": "${SMTP_SERVER_PASSWORD}"
+        }
+
+
+      # Encryption secret
+      EENGINE_SECRET: ${SMTP_EENGINE_SECRET}
+      # Database connection URL
+      EENGINE_REDIS: 'redis://redis:6379/2'
+  redis:
+    image: redis:alpine
+    restart: always
+    volumes:
+      - /data
+
+volumes:
+  db:

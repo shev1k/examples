@@ -1,0 +1,1036 @@
+[
+  {
+    "id": 198778391,
+    "firstname": "Karen",
+    "middlename": "",
+    "lastname": "Holerud",
+    "preferred_name": null,
+    "email": "kholerud@dynehg.com2",
+    "active": true,
+    "hired_date": null,
+    "image": "https://www.schoox.com/user/images/no-user-image_small.gif",
+    "url": "https://www.schoox.com/academies/profile.php?acadId=1989511714&user=198778391",
+    "custom_fields": [
+      {
+        "Hometown": ""
+      },
+      {
+        "Birthday": ""
+      },
+      {
+        "Phone": ""
+      },
+      {
+        "Address": ""
+      },
+      {
+        "Zip code": ""
+      }
+    ],
+    "units": [],
+    "above_units": [
+      {
+        "id": 854432,
+        "name": "Cheryl Wilkinson__2902",
+        "jobs": [
+          {
+            "id": 644558,
+            "name": "District Manager"
+          }
+        ]
+      },
+      {
+        "id": 853845,
+        "name": "Melissa Jackson__2912",
+        "jobs": [
+          {
+            "id": 644558,
+            "name": "District Manager"
+          }
+        ]
+      },
+      {
+        "id": 854436,
+        "name": "Neal White__2905",
+        "jobs": [
+          {
+            "id": 644558,
+            "name": "District Manager"
+          }
+        ]
+      },
+      {
+        "id": 905009,
+        "name": "Not Cheryl Wilkinson4__3031",
+        "jobs": [
+          {
+            "id": 644558,
+            "name": "District Manager"
+          }
+        ]
+      },
+      {
+        "id": 905007,
+        "name": "Not Cheryl Wilkinson__3030",
+        "jobs": [
+          {
+            "id": 644558,
+            "name": "District Manager"
+          }
+        ]
+      },
+      {
+        "id": 853719,
+        "name": "Karen Holerud__2809",
+        "jobs": [
+          {
+            "id": 644558,
+            "name": "District Manager"
+          },
+          {
+            "id": 678125,
+            "name": "Head of District Manager"
+          }
+        ]
+      },
+      {
+        "id": 801100,
+        "name": "Clint Dillard",
+        "jobs": [
+          {
+            "id": 644558,
+            "name": "District Manager"
+          }
+        ]
+      },
+      {
+        "id": 801082,
+        "name": "Jennifer Burcham",
+        "jobs": [
+          {
+            "id": 644558,
+            "name": "District Manager"
+          }
+        ]
+      },
+      {
+        "id": 1362292,
+        "name": "Test Franchisee2021122312__3064",
+        "jobs": [
+          {
+            "id": 644558,
+            "name": "District Manager"
+          }
+        ]
+      },
+      {
+        "id": 1362308,
+        "name": "Test Franchisee2021122314__3068",
+        "jobs": [
+          {
+            "id": 644558,
+            "name": "District Manager"
+          }
+        ]
+      },
+      {
+        "id": 1362318,
+        "name": "Test Franchisee2021122315__3070",
+        "jobs": [
+          {
+            "id": 644558,
+            "name": "District Manager"
+          }
+        ]
+      },
+      {
+        "id": 1362299,
+        "name": "testuser Franchisee2021122302__3021",
+        "jobs": [
+          {
+            "id": 644558,
+            "name": "District Manager"
+          }
+        ]
+      },
+      {
+        "id": 1362300,
+        "name": "testuser Franchisee2021122304@tropicalsmoothiecafe.com__3023",
+        "jobs": [
+          {
+            "id": 644558,
+            "name": "District Manager"
+          }
+        ]
+      },
+      {
+        "id": 1367698,
+        "name": "Test Franchisee2021122801__3071"
+      }
+    ],
+    "address": "",
+    "hourly_worker": false,
+    "joined_date": "2020-10-04",
+    "last_login": null,
+    "mobile": "",
+    "phone": "",
+    "registration_fields": [],
+    "state": "",
+    "zip": "",
+    "modified_at": "2022-01-30 04:25:50",
+    "username": "",
+    "roles": ["employee"],
+    "external_ids": []
+  },
+  {
+    "id": 376934159,
+    "firstname": "Justin",
+    "middlename": "",
+    "lastname": "Hollon",
+    "preferred_name": null,
+    "email": "tropmidm@gmail.com2",
+    "active": true,
+    "hired_date": null,
+    "image": "https://www.schoox.com/user/images/no-user-image_small.gif",
+    "url": "https://www.schoox.com/academies/profile.php?acadId=1989511714&user=376934159",
+    "custom_fields": [
+      {
+        "Hometown": ""
+      },
+      {
+        "Birthday": ""
+      },
+      {
+        "Phone": ""
+      },
+      {
+        "Address": ""
+      },
+      {
+        "Zip code": ""
+      }
+    ],
+    "units": [],
+    "above_units": [
+      {
+        "id": 854438,
+        "name": "Justin Hollon__2907",
+        "jobs": [
+          {
+            "id": 644552,
+            "name": "Above Cafe Operations"
+          },
+          {
+            "id": 685795,
+            "name": "Head of Above Cafe Operations"
+          }
+        ]
+      },
+      {
+        "id": 801096,
+        "name": "David Thorin",
+        "jobs": [
+          {
+            "id": 644552,
+            "name": "Above Cafe Operations"
+          }
+        ]
+      },
+      {
+        "id": 801556,
+        "name": "Bob Fischer",
+        "jobs": [
+          {
+            "id": 644552,
+            "name": "Above Cafe Operations"
+          }
+        ]
+      },
+      {
+        "id": 801558,
+        "name": "Dave Roche",
+        "jobs": [
+          {
+            "id": 644552,
+            "name": "Above Cafe Operations"
+          }
+        ]
+      }
+    ],
+    "address": "",
+    "hourly_worker": false,
+    "joined_date": "2020-10-04",
+    "last_login": null,
+    "mobile": "",
+    "phone": "",
+    "registration_fields": [],
+    "state": "",
+    "zip": "",
+    "modified_at": "2022-01-30 04:25:50",
+    "username": "",
+    "roles": ["employee"],
+    "external_ids": []
+  },
+  {
+    "id": 99765172,
+    "firstname": "Tristan",
+    "middlename": "",
+    "lastname": "Jensen",
+    "preferred_name": null,
+    "email": "tjens320@gmail.com2",
+    "active": true,
+    "hired_date": null,
+    "image": "https://www.schoox.com/user/images/no-user-image_small.gif",
+    "url": "https://www.schoox.com/academies/profile.php?acadId=1989511714&user=99765172",
+    "custom_fields": [
+      {
+        "Hometown": ""
+      },
+      {
+        "Birthday": ""
+      },
+      {
+        "Phone": ""
+      },
+      {
+        "Address": ""
+      },
+      {
+        "Zip code": ""
+      }
+    ],
+    "units": [],
+    "above_units": [
+      {
+        "id": 853763,
+        "name": "Tristan Jensen__2853",
+        "jobs": [
+          {
+            "id": 644558,
+            "name": "District Manager"
+          },
+          {
+            "id": 678125,
+            "name": "Head of District Manager"
+          }
+        ]
+      },
+      {
+        "id": 801556,
+        "name": "Bob Fischer",
+        "jobs": [
+          {
+            "id": 644558,
+            "name": "District Manager"
+          }
+        ]
+      }
+    ],
+    "address": "",
+    "hourly_worker": false,
+    "joined_date": "2020-10-04",
+    "last_login": null,
+    "mobile": "",
+    "phone": "",
+    "registration_fields": [],
+    "state": "",
+    "zip": "",
+    "modified_at": "2022-01-30 04:25:50",
+    "username": "",
+    "roles": ["employee"],
+    "external_ids": []
+  },
+  {
+    "id": 693017722,
+    "firstname": "Ross",
+    "middlename": "",
+    "lastname": "Lemieux",
+    "preferred_name": null,
+    "email": "rlemieux.tropical@gmail.com2",
+    "active": true,
+    "hired_date": null,
+    "image": "https://www.schoox.com/user/images/no-user-image_small.gif",
+    "url": "https://www.schoox.com/academies/profile.php?acadId=1989511714&user=693017722",
+    "custom_fields": [
+      {
+        "Hometown": ""
+      },
+      {
+        "Birthday": ""
+      },
+      {
+        "Phone": ""
+      },
+      {
+        "Address": ""
+      },
+      {
+        "Zip code": ""
+      }
+    ],
+    "units": [],
+    "above_units": [
+      {
+        "id": 854440,
+        "name": "Ross Lemieux__2909",
+        "jobs": [
+          {
+            "id": 644552,
+            "name": "Above Cafe Operations"
+          },
+          {
+            "id": 685795,
+            "name": "Head of Above Cafe Operations"
+          }
+        ]
+      },
+      {
+        "id": 801096,
+        "name": "David Thorin",
+        "jobs": [
+          {
+            "id": 644552,
+            "name": "Above Cafe Operations"
+          }
+        ]
+      },
+      {
+        "id": 801556,
+        "name": "Bob Fischer",
+        "jobs": [
+          {
+            "id": 644552,
+            "name": "Above Cafe Operations"
+          }
+        ]
+      },
+      {
+        "id": 801558,
+        "name": "Dave Roche",
+        "jobs": [
+          {
+            "id": 644552,
+            "name": "Above Cafe Operations"
+          }
+        ]
+      }
+    ],
+    "address": "",
+    "hourly_worker": false,
+    "joined_date": "2020-10-04",
+    "last_login": null,
+    "mobile": "",
+    "phone": "",
+    "registration_fields": [],
+    "state": "",
+    "zip": "",
+    "modified_at": "2022-01-30 04:25:50",
+    "username": "",
+    "roles": ["employee"],
+    "external_ids": []
+  },
+  {
+    "id": 704497315,
+    "firstname": "Jereman10",
+    "middlename": "",
+    "lastname": "leyden",
+    "preferred_name": null,
+    "email": "jjl10@test.com",
+    "active": true,
+    "hired_date": null,
+    "image": "https://www.schoox.com/user/images/no-user-image_small.gif",
+    "url": "https://www.schoox.com/academies/profile.php?acadId=1989511714&user=704497315",
+    "custom_fields": [
+      {
+        "Hometown": ""
+      },
+      {
+        "Birthday": ""
+      },
+      {
+        "Phone": ""
+      },
+      {
+        "Address": ""
+      },
+      {
+        "Zip code": ""
+      }
+    ],
+    "units": [
+      {
+        "id": 723178,
+        "name": "AL-016",
+        "jobs": [
+          {
+            "id": 678281,
+            "name": "General Manager"
+          }
+        ]
+      },
+      {
+        "id": 723179,
+        "name": "AL-020",
+        "jobs": [
+          {
+            "id": 678281,
+            "name": "General Manager"
+          }
+        ]
+      }
+    ],
+    "above_units": [],
+    "address": "",
+    "hourly_worker": false,
+    "joined_date": "2021-03-10",
+    "last_login": null,
+    "mobile": "",
+    "phone": "",
+    "registration_fields": [],
+    "state": "",
+    "zip": "",
+    "modified_at": "2022-01-30 04:25:50",
+    "username": "",
+    "roles": ["employee"],
+    "external_ids": []
+  },
+  {
+    "id": 613698035,
+    "firstname": "JerMan",
+    "middlename": "",
+    "lastname": "Leyden",
+    "preferred_name": null,
+    "email": "jeremy@leydenfamily.com",
+    "active": true,
+    "hired_date": null,
+    "image": "https://www.schoox.com/user/images/no-user-image_small.gif",
+    "url": "https://www.schoox.com/academies/profile.php?acadId=1989511714&user=613698035",
+    "custom_fields": [
+      {
+        "Hometown": ""
+      },
+      {
+        "Birthday": ""
+      },
+      {
+        "Phone": ""
+      },
+      {
+        "Address": ""
+      },
+      {
+        "Zip code": ""
+      }
+    ],
+    "units": [
+      {
+        "id": 723178,
+        "name": "AL-016",
+        "jobs": [
+          {
+            "id": 644556,
+            "name": "Crew Member"
+          }
+        ]
+      }
+    ],
+    "above_units": [],
+    "address": "",
+    "hourly_worker": true,
+    "joined_date": "2021-01-19",
+    "last_login": null,
+    "mobile": "",
+    "phone": "",
+    "registration_fields": [],
+    "state": "",
+    "zip": "",
+    "modified_at": "2022-01-30 04:25:50",
+    "username": "",
+    "roles": ["employee"],
+    "external_ids": []
+  },
+  {
+    "id": 497546606,
+    "firstname": "jerman11",
+    "middlename": "",
+    "lastname": "leyden",
+    "preferred_name": null,
+    "email": "jjl11@test.com",
+    "active": true,
+    "hired_date": null,
+    "image": "https://www.schoox.com/user/images/no-user-image_small.gif",
+    "url": "https://www.schoox.com/academies/profile.php?acadId=1989511714&user=497546606",
+    "custom_fields": [
+      {
+        "Hometown": ""
+      },
+      {
+        "Birthday": ""
+      },
+      {
+        "Phone": ""
+      },
+      {
+        "Address": ""
+      },
+      {
+        "Zip code": ""
+      }
+    ],
+    "units": [
+      {
+        "id": 723178,
+        "name": "AL-016",
+        "jobs": [
+          {
+            "id": 644553,
+            "name": "Assistant Manager"
+          }
+        ]
+      }
+    ],
+    "above_units": [],
+    "address": "",
+    "hourly_worker": true,
+    "joined_date": "2021-03-10",
+    "last_login": null,
+    "mobile": "",
+    "phone": "",
+    "registration_fields": [],
+    "state": "",
+    "zip": "",
+    "modified_at": "2022-01-30 04:25:50",
+    "username": "",
+    "roles": ["employee"],
+    "external_ids": []
+  },
+  {
+    "id": 625595437,
+    "firstname": "JerMan3",
+    "middlename": "",
+    "lastname": "Leyden",
+    "preferred_name": null,
+    "email": "jjl2@here.com",
+    "active": true,
+    "hired_date": null,
+    "image": "https://www.schoox.com/user/images/no-user-image_small.gif",
+    "url": "https://www.schoox.com/academies/profile.php?acadId=1989511714&user=625595437",
+    "custom_fields": [
+      {
+        "Hometown": ""
+      },
+      {
+        "Birthday": ""
+      },
+      {
+        "Phone": ""
+      },
+      {
+        "Address": ""
+      },
+      {
+        "Zip code": ""
+      }
+    ],
+    "units": [
+      {
+        "id": 723178,
+        "name": "AL-016",
+        "jobs": [
+          {
+            "id": 644553,
+            "name": "Assistant Manager"
+          }
+        ]
+      }
+    ],
+    "above_units": [],
+    "address": "",
+    "hourly_worker": false,
+    "joined_date": "2021-03-10",
+    "last_login": null,
+    "mobile": "",
+    "phone": "",
+    "registration_fields": [],
+    "state": "",
+    "zip": "",
+    "modified_at": "2022-01-30 04:25:50",
+    "username": "",
+    "roles": ["employee"],
+    "external_ids": []
+  },
+  {
+    "id": 468544250,
+    "firstname": "jerman6",
+    "middlename": "",
+    "lastname": "leyden",
+    "preferred_name": null,
+    "email": "jjl6@test.com",
+    "active": true,
+    "hired_date": null,
+    "image": "https://www.schoox.com/user/images/no-user-image_small.gif",
+    "url": "https://www.schoox.com/academies/profile.php?acadId=1989511714&user=468544250",
+    "custom_fields": [
+      {
+        "Hometown": ""
+      },
+      {
+        "Birthday": ""
+      },
+      {
+        "Phone": ""
+      },
+      {
+        "Address": ""
+      },
+      {
+        "Zip code": ""
+      }
+    ],
+    "units": [
+      {
+        "id": 723178,
+        "name": "AL-016",
+        "jobs": [
+          {
+            "id": 678281,
+            "name": "General Manager"
+          }
+        ]
+      },
+      {
+        "id": 723179,
+        "name": "AL-020",
+        "jobs": [
+          {
+            "id": 678281,
+            "name": "General Manager"
+          }
+        ]
+      }
+    ],
+    "above_units": [],
+    "address": "",
+    "hourly_worker": false,
+    "joined_date": "2021-03-10",
+    "last_login": null,
+    "mobile": "",
+    "phone": "",
+    "registration_fields": [],
+    "state": "",
+    "zip": "",
+    "modified_at": "2022-01-30 04:25:50",
+    "username": "",
+    "roles": ["employee"],
+    "external_ids": []
+  },
+  {
+    "id": 362003585,
+    "firstname": "jerman7",
+    "middlename": "",
+    "lastname": "leyden",
+    "preferred_name": null,
+    "email": "jjl7@test.com",
+    "active": true,
+    "hired_date": null,
+    "image": "https://www.schoox.com/user/images/no-user-image_small.gif",
+    "url": "https://www.schoox.com/academies/profile.php?acadId=1989511714&user=362003585",
+    "custom_fields": [
+      {
+        "Hometown": ""
+      },
+      {
+        "Birthday": ""
+      },
+      {
+        "Phone": ""
+      },
+      {
+        "Address": ""
+      },
+      {
+        "Zip code": ""
+      }
+    ],
+    "units": [
+      {
+        "id": 723178,
+        "name": "AL-016",
+        "jobs": [
+          {
+            "id": 644553,
+            "name": "Assistant Manager"
+          }
+        ]
+      }
+    ],
+    "above_units": [],
+    "address": "",
+    "hourly_worker": false,
+    "joined_date": "2021-03-10",
+    "last_login": null,
+    "mobile": "",
+    "phone": "",
+    "registration_fields": [],
+    "state": "",
+    "zip": "",
+    "modified_at": "2022-01-30 04:25:50",
+    "username": "",
+    "roles": ["employee"],
+    "external_ids": []
+  },
+  {
+    "id": 455280679,
+    "firstname": "norm1",
+    "middlename": "",
+    "lastname": "leyden",
+    "preferred_name": null,
+    "email": "norm1@test.com",
+    "active": true,
+    "hired_date": null,
+    "image": "https://www.schoox.com/user/images/no-user-image_small.gif",
+    "url": "https://www.schoox.com/academies/profile.php?acadId=1989511714&user=455280679",
+    "custom_fields": [
+      {
+        "Hometown": ""
+      },
+      {
+        "Birthday": ""
+      },
+      {
+        "Phone": ""
+      },
+      {
+        "Address": ""
+      },
+      {
+        "Zip code": ""
+      }
+    ],
+    "units": [
+      {
+        "id": 723178,
+        "name": "AL-016",
+        "jobs": [
+          {
+            "id": 644553,
+            "name": "Assistant Manager"
+          }
+        ]
+      }
+    ],
+    "above_units": [],
+    "address": "",
+    "hourly_worker": true,
+    "joined_date": "2021-03-10",
+    "last_login": null,
+    "mobile": "",
+    "phone": "",
+    "registration_fields": [],
+    "state": "",
+    "zip": "",
+    "modified_at": "2022-01-30 04:25:50",
+    "username": "",
+    "roles": ["employee"],
+    "external_ids": []
+  },
+  {
+    "id": 106517838,
+    "firstname": "Randy",
+    "middlename": "",
+    "lastname": "Little",
+    "preferred_name": null,
+    "email": "tscoperationsco@gmail.com2",
+    "active": true,
+    "hired_date": null,
+    "image": "https://www.schoox.com/user/images/no-user-image_small.gif",
+    "url": "https://www.schoox.com/academies/profile.php?acadId=1989511714&user=106517838",
+    "custom_fields": [
+      {
+        "Hometown": ""
+      },
+      {
+        "Birthday": ""
+      },
+      {
+        "Phone": ""
+      },
+      {
+        "Address": ""
+      },
+      {
+        "Zip code": ""
+      }
+    ],
+    "units": [],
+    "above_units": [
+      {
+        "id": 854439,
+        "name": "Randy Little__2908",
+        "jobs": [
+          {
+            "id": 644552,
+            "name": "Above Cafe Operations"
+          },
+          {
+            "id": 685795,
+            "name": "Head of Above Cafe Operations"
+          }
+        ]
+      },
+      {
+        "id": 801085,
+        "name": "LeMieux Development Corp",
+        "jobs": [
+          {
+            "id": 644552,
+            "name": "Above Cafe Operations"
+          }
+        ]
+      },
+      {
+        "id": 801121,
+        "name": "Kevin Michael Baker",
+        "jobs": [
+          {
+            "id": 644552,
+            "name": "Above Cafe Operations"
+          }
+        ]
+      },
+      {
+        "id": 801556,
+        "name": "Bob Fischer",
+        "jobs": [
+          {
+            "id": 644552,
+            "name": "Above Cafe Operations"
+          }
+        ]
+      }
+    ],
+    "address": "",
+    "hourly_worker": false,
+    "joined_date": "2020-10-04",
+    "last_login": null,
+    "mobile": "",
+    "phone": "",
+    "registration_fields": [],
+    "state": "",
+    "zip": "",
+    "modified_at": "2022-01-30 04:25:50",
+    "username": "",
+    "roles": ["employee"],
+    "external_ids": []
+  },
+  {
+    "id": 386731967,
+    "firstname": "Test",
+    "middlename": null,
+    "lastname": "LocalAddd",
+    "preferred_name": null,
+    "email": "tla@mywebpage.cool",
+    "active": true,
+    "hired_date": null,
+    "image": "https://www.schoox.com/user/images/no-user-image_small.gif",
+    "url": "https://www.schoox.com/academies/profile.php?acadId=1989511714&user=386731967",
+    "custom_fields": [
+      {
+        "Hometown": ""
+      },
+      {
+        "Birthday": ""
+      },
+      {
+        "Phone": ""
+      },
+      {
+        "Address": ""
+      },
+      {
+        "Zip code": ""
+      }
+    ],
+    "units": [
+      {
+        "id": 723178,
+        "name": "AL-016",
+        "jobs": [
+          {
+            "id": 644556,
+            "name": "Crew Member"
+          }
+        ]
+      }
+    ],
+    "above_units": [],
+    "address": null,
+    "hourly_worker": true,
+    "joined_date": "2021-06-17",
+    "last_login": null,
+    "mobile": null,
+    "phone": null,
+    "registration_fields": [],
+    "state": null,
+    "zip": null,
+    "modified_at": "2022-01-30 04:25:50",
+    "username": "tla@mywebpage.cool",
+    "roles": ["employee"],
+    "external_ids": []
+  },
+  {
+    "id": 627094495,
+    "firstname": "Test",
+    "middlename": "",
+    "lastname": "Loginissue",
+    "preferred_name": null,
+    "email": "tl@mywebpage.cool",
+    "active": true,
+    "hired_date": null,
+    "image": "https://www.schoox.com/user/images/no-user-image_small.gif",
+    "url": "https://www.schoox.com/academies/profile.php?acadId=1989511714&user=627094495",
+    "custom_fields": [
+      {
+        "Hometown": ""
+      },
+      {
+        "Birthday": ""
+      },
+      {
+        "Phone": ""
+      },
+      {
+        "Address": ""
+      },
+      {
+        "Zip code": ""
+      }
+    ],
+    "units": [
+      {
+        "id": 723178,
+        "name": "AL-016",
+        "jobs": [
+          {
+            "id": 644556,
+            "name": "Crew Member"
+          }
+        ]
+      }
+    ],
+    "above_units": [],
+    "address": "",
+    "hourly_worker": true,
+    "joined_date": "2021-05-20",
+    "last_login": "2021-05-20 19:56:08",
+    "mobile": "",
+    "phone": "",
+    "registration_fields": [],
+    "state": "",
+    "zip": "",
+    "modified_at": "2022-01-30 04:25:50",
+    "username": "",
+    "roles": ["employee"],
+    "external_ids": []
+  }
+]

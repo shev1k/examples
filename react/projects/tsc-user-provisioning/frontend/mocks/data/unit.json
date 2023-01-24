@@ -1,0 +1,52 @@
+{
+  "id": 724043,
+  "name": "AR-033",
+  "external_id": null,
+  "above_ids": [
+    {
+      "id": 854432,
+      "name": "Cheryl Wilkinson__2902",
+      "type": "Above Cafe Operations"
+    },
+    {
+      "id": 801082,
+      "name": "Jennifer Burcham",
+      "type": "Franchise Business Leader"
+    },
+    {
+      "id": 853845,
+      "name": "Melissa Jackson__2912",
+      "type": "Above Cafe Operations"
+    },
+    {
+      "id": 853919,
+      "name": "Melissa Jackson__2912",
+      "type": "District Manager"
+    },
+    {
+      "id": 854436,
+      "name": "Neal White__2905",
+      "type": "Above Cafe Operations"
+    },
+    {
+      "id": 905009,
+      "name": "Not Cheryl Wilkinson4__3031",
+      "type": "Above Cafe Operations"
+    },
+    {
+      "id": 905007,
+      "name": "Not Cheryl Wilkinson__3030",
+      "type": "Above Cafe Operations"
+    },
+    {
+      "id": 853722,
+      "name": "Zach Ramsey__2812",
+      "type": "District Manager"
+    },
+    {
+      "id": 853334,
+      "name": "Zach Ramsey__5473",
+      "type": "District Manager"
+    }
+  ]
+}

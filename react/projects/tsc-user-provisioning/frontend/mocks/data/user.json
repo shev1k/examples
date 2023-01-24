@@ -1,0 +1,123 @@
+{
+  "id": 1617654300,
+  "firstname": "Kevin",
+  "middlename": null,
+  "lastname": "Baker",
+  "preferred_name": null,
+  "email": "kbaker@bakerholdingcompany.com",
+  "active": true,
+  "hired_date": null,
+  "image": "https://www.schoox.com/user/images/no-user-image_small.gif",
+  "url": "https://www.schoox.com/academies/profile.php?acadId=981350523&user=1617654300",
+  "custom_fields": [],
+  "units": [],
+  "above_units": [
+    {
+      "id": 769890,
+      "name": "TSCLLC - Corporate",
+      "jobs": [
+        {
+          "id": 574778,
+          "name": "Franchisee"
+        }
+      ]
+    },
+    {
+      "id": 769920,
+      "name": "Denver",
+      "jobs": [
+        {
+          "id": 574778,
+          "name": "Franchisee"
+        }
+      ]
+    },
+    {
+      "id": 1013164,
+      "name": "Doug Cassidy__16127",
+      "jobs": [
+        {
+          "id": 574778,
+          "name": "Franchisee"
+        }
+      ]
+    },
+    {
+      "id": 897617,
+      "name": "Kevin Baker__1005",
+      "jobs": [
+        {
+          "id": 574778,
+          "name": "Franchisee"
+        },
+        {
+          "id": 563132,
+          "name": "Head of Franchisee"
+        }
+      ]
+    },
+    {
+      "id": 770085,
+      "name": "Traditional",
+      "jobs": [
+        {
+          "id": 574778,
+          "name": "Franchisee"
+        }
+      ]
+    },
+    {
+      "id": 770050,
+      "name": "Sysco Denver",
+      "jobs": [
+        {
+          "id": 574778,
+          "name": "Franchisee"
+        }
+      ]
+    },
+    {
+      "id": 735830,
+      "name": "Bob Fischer",
+      "jobs": [
+        {
+          "id": 574778,
+          "name": "Franchisee"
+        }
+      ]
+    },
+    {
+      "id": 735831,
+      "name": "Chris O'Connor",
+      "jobs": [
+        {
+          "id": 574778,
+          "name": "Franchisee"
+        }
+      ]
+    },
+    {
+      "id": 769827,
+      "name": "Colorado",
+      "jobs": [
+        {
+          "id": 574778,
+          "name": "Franchisee"
+        }
+      ]
+    }
+  ],
+  "address": null,
+  "hourly_worker": false,
+  "joined_date": "2020-05-27",
+  "last_login": null,
+  "mobile": null,
+  "phone": null,
+  "registration_fields": [],
+  "state": null,
+  "zip": null,
+  "modified_at": "2022-01-30 22:32:27",
+  "username": null,
+  "roles": [],
+  "external_ids": []
+}
